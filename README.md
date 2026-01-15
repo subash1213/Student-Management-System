@@ -19,5 +19,5 @@ A GUI-based Student Management System developed using Python, Tkinter, and SQLit
 3. Run:
    python student_gui.py
 ## Screenshots
-![Login](login.png)
-![Dashboard](dashboard.png)
+![Login](Screenshot (2).png)
+![Dashboard](Screenshot (3).png)
